@@ -17,3 +17,8 @@ Run the app
 -----------
 
 Run `yarn dev` to start the todo app.
+
+
+[Reference Tutorial](https://hasura.io/learn/graphql/nextjs-fullstack-serverless)
+October 13, 2020
+React Summit Conference 2020
